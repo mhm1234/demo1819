@@ -1,0 +1,21 @@
+.widget-mask{background:#000;position:fixed;z-index:99999;top:0;left:0;right:0;bottom:0;opacity:.3}
+.wd-m-ctn{display:none;background-color:#fff;font-size:12px;
+	padding:8px 16px;-webkit-box-shadow:#BFCBD3 0 1px 5px;box-shadow:#BFCBD3 0 1px 5px;
+	border-radius:2px;margin:0 auto;position:fixed;_position:absolute;z-index:999999;
+	border:1px solid #9AA4AA}
+.wd-m-ctn .wd-m-element{float:left}
+.wd-m-ctn .wd-m-icons{padding-left:30px;line-height:24px;height:auto;color:#2b2b2b;
+background-position:left 8px;background-repeat:no-repeat}
+.wd-m-ctn .wd-m-loading{
+background-image:url('http://s.nhimg.com/img/icon/modules/widget-loading.gif');
+background-position:0 center!important}.
+wd-m-ctn .wd-m-info{font-size:12px;
+background-image:url('http://s.nhimg.com/img/icon/modules/widget-info.png')}
+.wd-m-ctn .wd-m-panel{margin-top:6px;float:right}
+.wd-m-ctn button{cursor:pointer;margin:.6em 0 .6em 1.4em;color:#fff;height:2em;min-width:4em;
+	border:0}.wd-m-ctn button.ok{background-color:#2672EC}
+.wd-m-ctn button.cancel{background:#9AA4AA}
+.wd-m-ctn button:hover{background:#1B77CC}
+.wd-m-ctn .wd-m-prompt-input{display:block;margin:4px 0;border:1px solid #1B77CC;
+	padding:4px 0;min-width:20em}
+	
